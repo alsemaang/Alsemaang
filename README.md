@@ -41,7 +41,7 @@ I'm a **Technical Medicine** and **Applied Mathematics** student at the **Univer
 - **Data & Analysis:** NumPy · Pandas · Scikit-learn · ART
 
 
-## 📌 Featured Projects
+## 📌 Top Projects
 
 ### 🔬 Medical Image Analysis
 
