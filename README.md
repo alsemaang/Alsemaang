@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi, I'm G. Alsemaan 👋</h1>
+<h1>Hi, I'm Ghid Al-Semaan 👋</h1>
 <p><em>Technical Medicine & Applied Mathematics · Deep Learning · Medical Imaging · Medical AI</em></p>
 
 <img src="https://img.shields.io/badge/Nijmegen%2C%20Netherlands-🏙️-blue?style=for-the-badge" alt="Location" />
