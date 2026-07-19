@@ -16,11 +16,6 @@
 
 I'm a **Technical Medicine** and **Applied Mathematics** student at the **University of Twente**, with a strong interest in **Medical Image Analysis**, **Medical Signal Analysis**, **Deep Learning**, **Machine Learning**, and **Reinforcement Learning**. I focus on building robust deep learning algorithms for **medical imaging & biomedical signals** analysis. Where I applay technical methods to real clinical problems, especially in image analysis and signal processing.
 
-- 🫀 Worked on the **Automated Cardiac Diagnosis Challenge (ACDC)**, optimization of 2.5D AttU-Net.
-- 🧠 Worked on the **Ischemic Stroke Lesion Segmentation Challenge (ISLES)**, optimization of 2D and 3D U-Net.
-- 🐍 Building and experimenting with **Python**, **PyTorch**, and **TensorFlow**
-- 📍 Based in ** The Netherlands**
-
 ---
 
 ## 🔭 Research & Clinical Interests
