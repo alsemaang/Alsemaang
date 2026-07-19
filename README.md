@@ -20,8 +20,8 @@ I'm a **Technical Medicine** and **Applied Mathematics** student at the **Univer
 
 ## 🔭 Research & Clinical Interests
 
-- **Medical Image Processing:** segmentation, registration, and image transformation for clinical applications
-- **Medical Signal Processing:** analysis of physiological signals such as ECG, EEG, and other signals
+- **Medical Image Analysis:** segmentation, registration, and image transformation for clinical applications
+- **Medical Signal Analysis:** analysis of physiological signals such as ECG, EEG, and other signals
 - **Deep Learning & Machine Learning:** building robust models for healthcare and medical imaging
 - **Reinforcement Learning:** decision-making and optimization methods for technical and clinical problems
 - **Clinical Applications:** translating technical methods into practical solutions for real-world healthcare challenges
