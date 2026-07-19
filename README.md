@@ -18,7 +18,6 @@ I'm a **Technical Medicine** and **Applied Mathematics** student at the **Univer
 
 - 🫀 Worked on the **Automated Cardiac Diagnosis Challenge (ACDC)**, optimization of 2.5D AttU-Net.
 - 🧠 Worked on the **Ischemic Stroke Lesion Segmentation Challenge (ISLES)**, optimization of 2D and 3D U-Net.
-- 🫀 Researching **adversarial robustness of 1D ResNet ECG classifiers** using targeted PGD attacks and adaptive defenses
 - 🐍 Building and experimenting with **Python**, **PyTorch**, and **TensorFlow**
 - 📍 Based in ** The Netherlands**
 
