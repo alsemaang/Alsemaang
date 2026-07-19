@@ -1,67 +1,66 @@
 <div align="center">
-<h1>Hi, I'm Ghid Al-Semaan 👋</h1>
-<p><em>Technical Medicine & Applied Mathematics · Deep Learning · Medical Imaging · Medical AI</em></p>
+  <h1>Hi, I'm Ghid Al-Semaan 👋</h1>
+  <p><em>Technical Medicine & Applied Mathematics @ University of Twente · Medical Imaging & Signals · Deep Learning · Machine Learning · Reinforcement Learning</em></p>
 
-<img src="https://img.shields.io/badge/Nijmegen%2C%20Netherlands-🏙️-blue?style=for-the-badge" alt="Location" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <a href="https://nl.linkedin.com/in/ghid-al-semaan-69474b215">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </div>
 
-🧠 About Me
-I'm a student in Technical Medicine and Applied Mathematics, working at the intersection of healthcare, artificial intelligence, and quantitative problem solving. My interests focus on medical image analysis, deep learning, machine learning, and the development of technically robust solutions for clinically relevant problems.
+---
 
-🧠 Interested in deep learning for medical imaging and healthcare applications
+## 🧠 About Me
 
-🩻 Worked on the Automated Cardiac Diagnosis Challenge
+I'm a **Technical Medicine** and **Applied Mathematics** student at the **University of Twente**, with a strong interest in **Medical Image Analysis**, **Medical Signal Analysis**, **Deep Learning**, **Machine Learning**, and **Reinforcement Learning**. I focus on building robust deep learning algorithms for **medical imaging & biomedical signals** analysis. Where I applay technical methods to real clinical problems, especially in image analysis and signal processing.
 
-🧬 Worked on the Ischemic Stroke Lesion Segmentation Challenge
+- 🫀 Worked on the **Automated Cardiac Diagnosis Challenge (ACDC)**, optimization of 2.5D AttU-Net.
+- 🧠 Worked on the **Ischemic Stroke Lesion Segmentation Challenge (ISLES)**, optimization of 2D and 3D U-Net.
+- 🫀 Researching **adversarial robustness of 1D ResNet ECG classifiers** using targeted PGD attacks and adaptive defenses
+- 🐍 Building and experimenting with **Python**, **PyTorch**, and **TensorFlow**
+- 📍 Based in ** The Netherlands**
 
-🤖 Interested in medical AI, surgical technology, and image-guided applications
+---
 
-🐍 Building projects with Python, PyTorch, and TensorFlow
+## 🔭 Research & Clinical Interests
 
-📍 Based in Nijmegen, Netherlands
+- **Medical Image Processing:** segmentation, registration, and image transformation for clinical applications
+- **Medical Signal Processing:** analysis of physiological signals such as ECG, EEG, and other signals
+- **Deep Learning & Machine Learning:** building robust models for healthcare and medical imaging
+- **Reinforcement Learning:** decision-making and optimization methods for technical and clinical problems
+- **Clinical Applications:** translating technical methods into practical solutions for real-world healthcare challenges
 
-🔭 Interests
-Medical Image Analysis: segmentation, preprocessing, transformation workflows, and clinically relevant imaging pipelines
+---
 
-Deep Learning in Healthcare: applying neural networks to image-based and data-driven medical tasks
+## 🛠️ Tech Stack
 
-Medical AI: robust and practical AI solutions for healthcare innovation
+- **Languages:** Python · MATLAB  
+- **Deep Learning:** PyTorch · TensorFlow · MONAI · Jupyter  
+- **Medical Imaging:** SimpleITK · nibabel · pydicom · PyRadiomics · MONAI · VTK
+- **Data & Analysis:** NumPy · Pandas · Scikit-learn · ART
 
-Technical Medicine: combining engineering, mathematics, and medicine in clinical applications
 
-Quantitative Problem Solving: using analytical and computational methods for complex healthcare challenges
+## 📌 Featured Projects
 
-🛠️ Tech Stack
-Languages: Python · MATLAB
+### 🔬 Medical Image Analysis
 
-AI / Deep Learning: PyTorch · TensorFlow · Jupyter
+| Project | Description | Stack |
+| --- | --- | --- |
+| [🫁 ACDC Segmentation](https://github.com/SiniscalchiCarlo/acdc) | Developed a MONAI-based cardiac MRI segmentation workflow for the ACDC dataset, with both 2D and 2.5D slice pipelines. Implemented offline preprocessing, preprocessing QC, model training, checkpoint testing, and Optuna hyperparameter search. Used dynamic class weighting and Dice + Cross-Entropy loss to improve segmentation performance on LV, RV, and myocardium. | MONAI · PyTorch · nibabel · SimpleITK |
 
-Data & Computing: NumPy · Pandas · Scikit-learn
+### 🔬 Medical Signal Analysis
+| Project | Description | Stack |
+| --- | --- | --- |
+| [🫀 ECG Adversarial Robustness](https://github.com/HSTE21/ECG-Adversarial-Robustness) | "Small Changes, Big Errors" — Investigated the vulnerability of a 34-layer 1D ResNet ECG classifier to targeted PGD attacks, exposing a critical drop in Atrial Fibrillation detection (F1: 0.73 → 0.18). Engineered an adaptive adversarial retraining pipeline that restored robustness against active attacks (ϵ=0.2) and acted as a powerful regularizer, boosting the baseline clinical performance to an F1-score of 0.87. | TensorFlow · ART · wfdb |
 
-Medical Imaging: SimpleITK · nibabel · pydicom
+---
 
-Workflow & Tools: Git · GitHub · LaTeX
 
-📌 Featured Topics
-Topic	Description	Stack
-Medical Imaging	Interested in medical image processing, transformation workflows, and clinically relevant analysis pipelines.	Python · SimpleITK · nibabel
-Deep Learning	Applying deep learning methods to healthcare and imaging-related tasks.	PyTorch · TensorFlow
-Machine Learning	Exploring data-driven models for technical and medical applications.	Python · Scikit-learn
-Medical AI	Combining technical knowledge and clinical relevance to build intelligent healthcare solutions.	Python · Jupyter
-Surgical Technology	Interested in image-guided systems, intervention support, and advanced healthcare technologies.	MATLAB · Python
-🎯 Current Focus
-Currently focused on expanding practical and research experience in:
+---
 
-Deep learning for medical imaging
+## 📫 Let's Connect
 
-Medical AI for clinically relevant applications
-
-Computational methods in healthcare
-
-Reproducible technical and research workflows
-
-📫 Connect
-Open to connecting around medical imaging, deep learning, medical AI, and technical medicine.
+If you're working on Medical Imaging & Signals projects, I'd love to connect and learn more about your work.
+Feel free to reach out via [LinkedIn](https://nl.linkedin.com/in/ghid-al-semaan-69474b215).
+---
