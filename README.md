@@ -49,11 +49,6 @@ I'm a **Technical Medicine** and **Applied Mathematics** student at the **Univer
 | --- | --- | --- |
 | [🫁 ACDC Segmentation](https://github.com/SiniscalchiCarlo/acdc) | Developed a MONAI-based cardiac MRI segmentation workflow for the ACDC dataset, with both 2D and 2.5D slice pipelines. Implemented offline preprocessing, preprocessing QC, model training, checkpoint testing, and Optuna hyperparameter search. Used dynamic class weighting and Dice + Cross-Entropy loss to improve segmentation performance on LV, RV, and myocardium. | MONAI · PyTorch · nibabel · SimpleITK |
 
-### 🔬 Medical Signal Analysis
-| Project | Description | Stack |
-| --- | --- | --- |
-| [🫀 ECG Adversarial Robustness](https://github.com/HSTE21/ECG-Adversarial-Robustness) | "Small Changes, Big Errors" — Investigated the vulnerability of a 34-layer 1D ResNet ECG classifier to targeted PGD attacks, exposing a critical drop in Atrial Fibrillation detection (F1: 0.73 → 0.18). Engineered an adaptive adversarial retraining pipeline that restored robustness against active attacks (ϵ=0.2) and acted as a powerful regularizer, boosting the baseline clinical performance to an F1-score of 0.87. | TensorFlow · ART · wfdb |
-
 ---
 
 
