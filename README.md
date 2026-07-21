@@ -30,7 +30,7 @@ I'm a **Technical Medicine** and **Applied Mathematics** student at the **Univer
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python · MATLAB  
+- **Languages:** Python · MATLAB  · SQL  
 - **Deep Learning:** PyTorch · TensorFlow · MONAI · Jupyter  
 - **Medical Imaging:** SimpleITK · nibabel · pydicom · PyRadiomics · MONAI · VTK
 - **Data & Analysis:** NumPy · Pandas · Scikit-learn · ART
