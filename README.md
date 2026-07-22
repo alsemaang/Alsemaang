@@ -38,7 +38,7 @@ I'm a **Technical Medicine** and **Applied Mathematics** student at the **Univer
 
 ## 📌 Top Projects
 
-### 🔬 Medical Image Analysis
+### 🩻 Medical Image Analysis
 
 | Project | Description | Stack |
 | --- | --- | --- |
