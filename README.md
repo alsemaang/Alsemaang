@@ -42,7 +42,7 @@ I'm a **Technical Medicine** and **Applied Mathematics** student at the **Univer
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [🫁 ACDC Segmentation](https://github.com/SiniscalchiCarlo/acdc) | Developed a MONAI-based cardiac MRI segmentation workflow for the ACDC dataset, with both 2D and 2.5D slice pipelines. Implemented offline preprocessing, preprocessing QC, model training, checkpoint testing, and Optuna hyperparameter search. Used dynamic class weighting and Dice + Cross-Entropy loss to improve segmentation performance on LV, RV, and myocardium. | MONAI · PyTorch · nibabel · SimpleITK |
+| [🫀 ACDC Segmentation](https://github.com/SiniscalchiCarlo/acdc) | Developed a MONAI-based cardiac MRI segmentation workflow for the ACDC dataset, with both 2D and 2.5D slice pipelines. Implemented offline preprocessing, preprocessing QC, model training, checkpoint testing, and Optuna hyperparameter search. Used dynamic class weighting and Dice + Cross-Entropy loss to improve segmentation performance on LV, RV, and myocardium. | MONAI · PyTorch · nibabel · SimpleITK |
 
 ---
 
