@@ -51,6 +51,6 @@ I'm a **Technical Medicine** and **Applied Mathematics** student at the **Univer
 
 ## 📫 Let's Connect
 
-If you're working on Medical Imaging & Signals projects, I'd love to connect and learn more about your work.
+If you're working on Medical Imaging or Medical Signals projects, I'd love to connect and learn more about your work.
 Feel free to reach out via [LinkedIn](https://nl.linkedin.com/in/ghid-al-semaan-69474b215).
 ---
