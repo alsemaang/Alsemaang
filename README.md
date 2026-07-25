@@ -38,6 +38,7 @@ I'm a **Technical Medicine** and **Applied Mathematics** student at the **Univer
 - **Data & Analysis:** NumPy · Pandas · Scikit-learn · ART  
 - **Tools:** GitHub · Git  · LaTeX · Docker · 3D Slicer
 
+---
 
 ## 📌 Top Projects
 
