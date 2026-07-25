@@ -9,6 +9,7 @@
 <a href="mailto:your.email@example.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+</div>
 
 ---
 
@@ -30,7 +31,7 @@ I'm a **Technical Medicine** and **Applied Mathematics** student at the **Univer
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python · MATLAB · SQL  
+**Languages:** Python · MATLAB · SQL  
 - **Deep Learning:** PyTorch · TensorFlow · MONAI · Jupyter  
 - **Medical Imaging:** SimpleITK · nibabel · pydicom · PyRadiomics · VTK  
 - **Biomedical Signals:** SciPy · NumPy · NeuroKit2 · BioSPPy · PyPhysio · WFDB  
