@@ -34,9 +34,9 @@ I'm a **Technical Medicine** and **Applied Mathematics** student at the **Univer
 - **Languages:** Python · MATLAB · SQL  
 - **Deep Learning:** PyTorch · TensorFlow · MONAI · Jupyter  
 - **Medical Imaging:** SimpleITK · nibabel · pydicom · PyRadiomics · VTK  
-- **Biomedical Signals:** SciPy · NumPy · NeuroKit2 · BioSPPy · PyPhysio · WFDB  
-- **Reinforcement Learning:** Gymnasium · Stable-Baselines3 · Ray RLlib  
-- **Data & Analysis:** NumPy · Pandas · Scikit-learn · ART  
+- **Biomedical Signals:** SciPy · NumPy · NeuroKit2 · BioSPPy · PyPhysio
+- **Reinforcement Learning:** Gymnasium 
+- **Data & Analysis:** NumPy · Pandas · Scikit-learn
 - **Tools:** GitHub · Git  · LaTeX · Docker · 3D Slicer
 
 ---
