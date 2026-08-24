@@ -34,7 +34,7 @@ I'm a **Technical Medicine** and **Applied Mathematics** student at the **Univer
  <!-- - **Biomedical Signals:** SciPy · NumPy · NeuroKit2 · BioSPPy · PyPhysio -->
  <!-- - **Reinforcement Learning:** Gymnasium -->
  <!-- - **Data & Analysis:** NumPy · Pandas · Scikit-learn -->
-- **Tools:** GitHub ·  <!-- Git -->  · LaTeX ·  <!-- Docker -->· 3D Slicer
+- **Tools:** GitHub <!-- ·  Git -->  · LaTeX <!-- ·   Docker -->· 3D Slicer
 
 ---
 
