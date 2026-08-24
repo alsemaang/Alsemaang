@@ -3,7 +3,7 @@
   <p><em>Technical Medicine (MII) & Applied Mathematics (AI4Health) student @ University of Twente.</em></p>
   <p><em>Medical Imaging Analysis · Medical Signals Analysis · Deep Learning · (Multimodal) Machine Learning · Reinforcement Learning · Navigation Technology · Statistical Learning · Optimization · Markov Decision Process · Inverse Problems in Imaging</em></p>
 
-<a href="https://nl.linkedin.com/in/ghid-al-semaan-69474b215">
+<a href="https://www.linkedin.com/in/ghid-al-semaan/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </div>
