@@ -30,7 +30,7 @@ I'm a **Technical Medicine** and **Applied Mathematics** student at the **Univer
 
 - **Languages:** Python · MATLAB · R ·<!-- SQL  -->
  - **Libraries:** PyTorch · TensorFlow · MONAI · Jupyter · SimpleITK · nibabel · PyRadiomics · VTK · NumPy · Pandas · Scikit-learn
- - **Tools:** GitHub <!-- ·  Git -->  · LaTeX <!-- ·   Docker -->· 3D Slicer
+ - **Tools:** GitHub · Git · LaTeX <!-- ·   Docker -->· 3D Slicer
 
 ---
 
