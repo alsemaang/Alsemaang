@@ -28,7 +28,7 @@ I'm a **Technical Medicine** and **Applied Mathematics** student at the **Univer
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python · MATLAB · <!-- SQL  -->
+- **Languages:** Python · MATLAB · R ·<!-- SQL  -->
  - **Libraries:** PyTorch · TensorFlow · MONAI · Jupyter · SimpleITK · nibabel · PyRadiomics · VTK · NumPy · Pandas · Scikit-learn
  - **Tools:** GitHub <!-- ·  Git -->  · LaTeX <!-- ·   Docker -->· 3D Slicer
 
