@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Ghid Al-Semaan 👋</h1>
-  <p><em>Technical Medicine (MII) & Applied Mathematics (AI4Health) student @ University of Twente.</em></p>
-  <p><em>Medical Imaging Analysis · Medical Signals Analysis · Deep Learning · (Multimodal) Machine Learning · Reinforcement Learning · Navigation Technology · Statistical Learning · Optimization · Markov Decision Process · Inverse Problems in Imaging</em></p>
+  <p><em>Technical Medicine (MII) student @ University of Twente.</em></p>
+  <p><em>Medical Imaging Analysis · Medical Signals Analysis · Deep Learning · (Multimodal) Machine Learning · Reinforcement Learning · Navigation Technology · Optimization </em></p>
 
 <a href="https://www.linkedin.com/in/ghid-al-semaan/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-I'm a **Technical Medicine** and **Applied Mathematics** student at the **University of Twente**, with a strong interest in **Medical Image Analysis**, **Medical Signal Analysis**, **Deep Learning**, **Machine Learning**, and **Reinforcement Learning**. I focus on building robust deep learning algorithms for **medical imaging & biomedical signals** analysis. Where I apply technical methods to real clinical problems, especially in image analysis and signal processing.
+I'm a **Technical Medicine** student at the **University of Twente**, with a strong interest in **Medical Image Analysis**, **Medical Signal Analysis**, **Deep Learning**, **Machine Learning**, and **Reinforcement Learning**. I focus on building robust deep learning algorithms for **medical imaging & biomedical signals** analysis. Where I apply technical methods to real clinical problems, especially in image analysis and signal processing.
 
 ---
 
